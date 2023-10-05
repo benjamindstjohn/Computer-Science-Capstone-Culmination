@@ -2,7 +2,7 @@
 For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu</i> <br>
 <br>
 <br>
-<h2><a href="https://github.com/sanctusjack/Project-2-Capstone">Program 3</a></h2>
+<h2><a href="https://github.com/sanctusjack/Project-2-Capstone">Program 2</a></h2>
 <i>⟹ Walkthrough</i> <br>
 <br>
 <br>

@@ -2,9 +2,7 @@
 For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu</i>
 <br>
 <br>
-```diff
-! IN DEVELOPMENT STAGE !
-```
+```diff ! IN DEVELOPMENT STAGE ! ```
 <br>
 <br>
 <h2><a href="https://github.com/sanctusjack/Project-2-Capstone">Program 2</a></h2>

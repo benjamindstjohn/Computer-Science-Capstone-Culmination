@@ -1,18 +1,12 @@
 from pathlib import Path
 import os
 
-
-# Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
-# Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = "django-insecure-h(^+*&n#!-&)7rhj0h-&vq3^^+ei_^f25ca9nau#5n8o!coz^x"
 
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = []
@@ -69,10 +63,10 @@ DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.postgresql',
        'NAME': 'PostgreSQ16',
-       'USER': 'bdstjohn',
-       'PASSWORD': 'X7$rP#m2@L9tY$.zK',
-       'HOST': 'localhost',
-       'PORT': '6543',
+       'USER': 'XXXXXx',
+       'PASSWORD': 'XXXXXXXX',
+       'HOST': 'XXXXXXXX',
+       'PORT': 'XXXX',
     }
 }
 

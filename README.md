@@ -39,7 +39,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <h2><i>Program Walkthrough ⟹</i></h2>
 <p align="center">
 <i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i> <br/>
-<img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" /></a>source: imgur.com" height="100%" width="100%" alt="MLMODEL"/>
+<img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/>
 <br />
 <br />
 <i>(ii.) Financial Pulse Landing Page [BETA]</i>  <br/>

@@ -1,87 +1,111 @@
-<h1><a href="https://github.com/sanctusjack/Project-2-Capstone">Program 2 - Capstone Project</a></h1> <br/>
-<h2><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Status</a></h2>
+# <a href="https://github.com/sanctusjack/Project-2-Capstone">Capstone Project</a>
 
-```diff
-# S͟t͟a͟t͟u͟s͟
+## <i>Status</i>
 
-! IN DEVELOPMENT STAGE !
+```diff 
+! In development
+
+- Debugging
+
+# Researching 
 ```
-  
-<br/>
-<br/>
-<h3><a href="https://github.com/sanctusjack/Project-2-Capstone">Capstone Project </a>(Full-stack Development)</h3> <br/>
 
-Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.
+<hr>
 
-<br>
-<br>
-<h4><a href="https://github.com/sanctusjack/Benjamin-D-St-John/tree/main">Languages and Frameworks ⟹</a></h4>
-  ∙ C++ <br/>
-  ∙ Python <br/>
-  ∙ Javascript <br/>
+```diff 
+@@ Purpose of application @@
+```
+
+> <i> Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms.</i> 
+
+This integration aims to optimize application efficiency and scale. 
+
+> <i> The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
+
+This integration aims to optimize data processing and analysis.
+
+<hr>
+
+### <i>Languages and Frameworks</i> ⟹
+  ∙ C++ <br>
+  ∙ Python <br>
+  ∙ Javascript <br>
   ∙ PostgreSQL <br/>
-  ∙ Django <br/>
-  ∙ React <br/>
+  ∙ Django back-end framework <br>
+  ∙ Bootstrap front-end framework <br>
   ∙ HTML <br/>
-  ∙ CSS 
-<br/>
-<br/>
-<h5><a href="https://github.com/sanctusjack/Project-2-Capstone">Systems ⟹</a></h5>
-    ∙ Cloud Computing for Data Storage. <br>
-    ∙ Machine Learning Algorithms for Training and Modeling Data. <br>
-    ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatype. <br>
-    ∙ HTML, CSS, Javascript, and React for User-friendly Frontend GUI Design and Functionality. <br>
-    ∙ Django Framework for Intelligent Backend. <br>
-    ∙ RESTful API Data Transfer.
-    
+  ∙ CSS
+  
 ```diff
-# Still researching most optimal cloud provider to use (i.e; AWS, Google, etc...)
-# Currently using Heroku for PostgreSQL Server
+# C++ not yet integrated, experimenting with django integration for added efficiency
+
 ```
-<br>
-<br>
-<h2>Program Walkthrough ⟹</h2>
+
+<hr>
+
+#### <i>Systems</i> ⟹
+  ∙ Cloud computations for API data pipelines. <br>
+  ∙ Machine learning algorithms for data training and modeling <br>
+  ∙ PostgreSQL database. <br>
+  ∙ Bootstrap front-end framework and Javascript for UI/UX design and functionality. <br>
+  ∙ Django back-end framework. <br>
+  ∙ Restrictive RESTful API.
+  
+```diff
+! In Development
+# Still researching most optimal cloud provider to use (i.e., AWS, Google, etc...)
+# Currently using Heroku for PostgreSQL Server, but still researching for most optimal provider
+```
+
+<hr>
+
+##### <i>Program Walkthrough</i> ⟹
 <p align="center">
-<i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i>
+  
+```diff 
+@@ Jupyter Notebook Machine Learning Model [BETA] @@
+```
 <img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
    
 ```diff
-@@ from sklearn.datasets import load_irisdata = load_iris() @@
-@@  @@
-# Iris dataset used for testing
+! In Development
+# from sklearn.datasets import load_irisdata = load_iris() @@
+# import matplotlib.pyplot as plt; plt.plot(X, y); plt.show() to graph @@
+# Iris CSV dataset used for model testing #
+# Predictive - to predict future scenarios. #
+# Supervised learning - to try and predict a variable, outcome, or target (i.e., creating a linear regression, etc...) #
 ```
-<br/>
-<br/>
-<i>(ii.) </i>  <br/>
-<img src="https://i.imgur.com/hLLqvHo.png" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
-<br/>
-<br/>
-<i>Description 3...</i> <br/>
-<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
-<br/>
-<br/>
-<i>Description 4...</i>  <br/>
-<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
-<br/>
-<br/>
-</p>
-<br>
-<br>
 
-<footer>
-   
+<hr>
+  
+```diff 
+@@ User-friendly frontend CSS and HTML Using Bootstrap [BETA] @@
+```
+<img src="https://i.imgur.com/UwsudUv.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
+
 ```diff
-! denotes nearing readiness for production use
-+ denotes in development
+! In Development
++ Nearing Completion
+```
+
+<hr>
+
+<footer>  
+<h6>Key:</h6>
+  
+```diff
++ denotes nearing readiness for production use
+! denotes in development
 - denotes being debugged
 # denotes comments or additional information
 @@ denotes useful explanations @@
 ```
+<h6>Contact:</h6>
+For all professional and business inquiries, please contact
+
+```diff
+bdstjohn@uwm.edu
+```
 </footer>
 <br>
 <br>
-<br>
-<br>
-<footer>
-For all professional and business inquiries, please contact: <i>bdstjohn@uwm.edu</i>
-</footer>

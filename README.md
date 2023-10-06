@@ -62,7 +62,7 @@
 ```diff 
 @@ Jupyter Notebook Machine Learning Model [BETA] @@
 ```
-<img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
+<img src="https://i.imgur.com/UQvkmxa.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
    
 ```diff
 ! In Development

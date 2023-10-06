@@ -2,9 +2,12 @@
 For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu</i>
 <br>
 <br>
+```diff
+! IN DEVELOPMENT STAGE !
+```
+<br>
+<br>
 <h2><a href="https://github.com/sanctusjack/Project-2-Capstone">Program 2</a></h2>
-
-<i>⟹ Walkthrough</i>
 <br>
 <br>
 <h3><a href="https://github.com/sanctusjack/Project-2-Capstone">Capstone Project</a></h3>
@@ -33,8 +36,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
     ∙ RESTful API Data Transfer.
 <br>
 <br>
-<h2>Program walk-through:</h2>
-
+<h2><i>Program Walkthrough ⟹</i></h2>
 <p align="center">
 <i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i> <br/>
 <img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" /></a>source: imgur.com" height="100%" width="100%" alt="MLMODEL"/>
@@ -53,9 +55,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <br/>
 <br/>
 </p>
-
 <br>
-
 ```diff
 - text in red
 + text in green
@@ -63,3 +63,5 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 # text in gray
 @@ text in purple (and bold) @@
 ```
+<br/>
+<br/>

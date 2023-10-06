@@ -41,7 +41,7 @@ Design and implement an intelligent backend server that effectively combines the
 <br>
 <br>
 <h2>Program Walkthrough ⟹</h2>
-<p>align="center"><i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i><br/>
+<p> <align= "center"<i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i><br>
 <img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
    
 ```diff

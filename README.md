@@ -75,7 +75,7 @@
 <hr>
   
 ```diff 
-@@ User-friendly frontend CSS and HTML Using Bootstrap [BETA] @@
+@@ User-friendly Front-end Using CSS, HTML, and Bootstrap [BETA] @@
 ```
 <img src="https://i.imgur.com/UwsudUv.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
 
@@ -86,7 +86,7 @@
 <hr>
 
 ```diff 
-@@ Live Website Homepage [BETA] @@
+@@ Landing Page [BETA] @@
 ```
 <img src="https://i.imgur.com/PAebtca.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
 

@@ -3,6 +3,7 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
 <br>
 <br>
 <h2><a href="https://github.com/sanctusjack/Project-2-Capstone">Program 2</a></h2>
+
 <i>⟹ Walkthrough</i>
 <br>
 <br>
@@ -32,3 +33,33 @@ For all professional and business inquiries, please contact:<i> bdstjohn@uwm.edu
     ∙ RESTful API Data Transfer.
 <br>
 <br>
+<h2>Program walk-through:</h2>
+
+<p align="center">
+<i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i> <br/>
+<img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" /></a>source: imgur.com" height="100%" width="100%" alt="MLMODEL"/>
+<br />
+<br />
+<i>(ii.) Financial Pulse Landing Page [BETA]</i>  <br/>
+<img src="https://i.imgur.com/hLLqvHo.png" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
+<br />
+<br />
+<i>Description 3...</i> <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
+<br />
+<br />
+<i>Description 4...</i>  <br/>
+<img src="https://i.imgur.com/9EVRUEO.png" height="40%" width="30%" alt="API Application"/>
+<br/>
+<br/>
+</p>
+
+<br>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold) @@
+```

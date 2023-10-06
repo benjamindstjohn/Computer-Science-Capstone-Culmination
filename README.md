@@ -9,20 +9,18 @@
 
 # Researching 
 ```
-
 <hr>
 
 ```diff 
 @@ Purpose of application @@
 ```
-
 > <i> Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms.</i> 
 
-This integration aims to optimize application efficiency and scale. 
+⟹ This integration aims to optimize application efficiency and scale. 
 
 > <i> The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
 
-This integration aims to optimize data processing and analysis.
+⟹ This integration aims to optimize data processing and analysis.
 
 <hr>
 
@@ -41,7 +39,6 @@ This integration aims to optimize data processing and analysis.
 # C++ not yet integrated, experimenting with django integration for added efficiency
 
 ```
-
 <hr>
 
 #### <i>Systems</i> ⟹
@@ -57,7 +54,6 @@ This integration aims to optimize data processing and analysis.
 # Still researching most optimal cloud provider to use (i.e., AWS, Google, etc...)
 # Currently using Heroku for PostgreSQL Server, but still researching for most optimal provider
 ```
-
 <hr>
 
 ##### <i>Program Walkthrough</i> ⟹
@@ -76,7 +72,6 @@ This integration aims to optimize data processing and analysis.
 # Predictive - to predict future scenarios. #
 # Supervised learning - to try and predict a variable, outcome, or target (i.e., creating a linear regression, etc...) #
 ```
-
 <hr>
   
 ```diff 
@@ -88,7 +83,17 @@ This integration aims to optimize data processing and analysis.
 ! In Development
 + Nearing Completion
 ```
+<hr>
 
+```diff 
+@@ Live Website Homepage [BETA] @@
+```
+<img src="https://i.imgur.com/PAebtca.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
+
+```diff
+! In Development
++ Nearing Completion
+```
 <hr>
 
 <footer>  
@@ -108,5 +113,3 @@ For all professional and business inquiries, please contact
 bdstjohn@uwm.edu
 ```
 </footer>
-<br>
-<br>

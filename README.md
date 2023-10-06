@@ -41,15 +41,18 @@ Design and implement an intelligent backend server that effectively combines the
 <br>
 <br>
 <h2>Program Walkthrough ⟹</h2>
-<p> <align= "center"<i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i><br>
+<p align="center">
+<i>(i.) Jupyter Notebook Machine Learning Model [BETA]</i>
 <img src="https://i.imgur.com/KPW6Jkn.jpg" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
    
 ```diff
-@@ @@
+@@ from sklearn.datasets import load_irisdata = load_iris() @@
+@@  @@
+# Iris dataset used for testing
 ```
 <br/>
 <br/>
-<i>(ii.) Financial Pulse Landing Page [BETA]</i>  <br/>
+<i>(ii.) </i>  <br/>
 <img src="https://i.imgur.com/hLLqvHo.png" title="source: imgur.com" height="100%" width="100%" alt="API Application"/>
 <br/>
 <br/>

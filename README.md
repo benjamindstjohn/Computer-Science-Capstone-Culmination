@@ -28,10 +28,10 @@
   ∙ C++ <br>
   ∙ Python <br>
   ∙ Javascript <br>
-  ∙ PostgreSQL <br/>
+  ∙ PostgreSQL <br>
   ∙ Django back-end framework <br>
   ∙ Bootstrap front-end framework <br>
-  ∙ HTML <br/>
+  ∙ HTML <br>
   ∙ CSS
   
 ```diff
@@ -66,11 +66,11 @@
    
 ```diff
 ! In Development
-# from sklearn.datasets import load_irisdata = load_iris() @@
-# import matplotlib.pyplot as plt; plt.plot(X, y); plt.show() to graph @@
-# Iris CSV dataset used for model testing #
-# Predictive - to predict future scenarios. #
-# Supervised learning - to try and predict a variable, outcome, or target (i.e., creating a linear regression, etc...) #
+# from sklearn.datasets import load_irisdata = load_iris() 
+# import matplotlib.pyplot as plt; plt.plot(X, y); plt.show() to graph 
+# Iris CSV dataset used for model testing 
+# Predictive - to predict future scenarios. 
+# Supervised learning - to try and predict a variable, outcome, or target (i.e., creating a linear regression, etc...) 
 ```
 <hr>
   

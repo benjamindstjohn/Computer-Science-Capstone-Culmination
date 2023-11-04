@@ -98,10 +98,10 @@
 <h6>Key:</h6>
   
 ```diff
-+ denotes nearing readiness for production use
-! denotes in development
-- denotes being debugged
-# denotes comments or additional information
++ denotes completion or nearing readiness for production use ✔ ✔
+! denotes in development ☐ ☐
+- denotes being debugged ✖ ✖
+# denotes comments or additional information ⍻ ⍻
 @@ denotes useful explanations @@
 ```
 <h6>Contact:</h6>

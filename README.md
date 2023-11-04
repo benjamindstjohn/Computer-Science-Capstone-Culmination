@@ -91,8 +91,7 @@
 <img src="https://i.imgur.com/hSrvP5j.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
 
 ```diff
-! In Development
-+ Nearing Completion
++ Completed ✔✔
 ```
 <hr>
 

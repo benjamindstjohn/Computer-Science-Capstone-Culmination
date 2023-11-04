@@ -65,7 +65,6 @@
 <img src="https://i.imgur.com/UQvkmxa.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
    
 ```diff
-! In Development
 # from sklearn.datasets import load_irisdata = load_iris() 
 # import matplotlib.pyplot as plt; plt.plot(X, y); plt.show() to graph 
 # Iris CSV dataset used for model testing 

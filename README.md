@@ -102,12 +102,12 @@
 ! denotes in development ☐ ☐
 - denotes being debugged ✖ ✖
 # denotes comments or additional information ⍻ ⍻
-@@ denotes useful explanations @@
+@@ denotes useful explanations Δ Δ @@
 ```
 <h6>Contact:</h6>
 For all professional and business inquiries, please contact
 
 ```diff
-bdstjohn@uwm.edu
+benjaminstjohn1@gmail.com
 ```
 </footer>

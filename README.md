@@ -86,7 +86,7 @@
 ```diff 
 @@ Landing Page [BETA] @@
 ```
-<img src="https://i.imgur.com/hSrvP5j.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
+<img src="https://i.imgur.com/FiLgPk8.png" title="source: imgur.com" height="100%" width="100%" alt="MLMODEL"/> <br>
 
 ```diff
 + Completed ✔✔
@@ -97,11 +97,11 @@
 <h6>Key:</h6>
   
 ```diff
-+ denotes completion or nearing readiness for production use ✔ ✔
-! denotes in development ☐ ☐
-- denotes being debugged ✖ ✖
-# denotes comments or additional information ⍻ ⍻
-@@ denotes useful explanations Δ Δ @@
++ Denotes completion or nearing readiness for production use ✔ ✔
+! Denotes in development ☐ ☐
+- Denotes being debugged ✖ ✖
+# Denotes comments or additional information ⍻ ⍻
+@@ Denotes useful explanations Δ Δ @@
 ```
 <h6>Contact:</h6>
 For all professional and business inquiries, please contact
